@@ -7,6 +7,7 @@
     - Keyword : Frechet Distance, Interpoint Distance, Trajectory Similarity Measures
     - 메인 논문 : [computing the frechet distance between polygonal curves](https://www.worldscientific.com/doi/abs/10.1142/S0218195995000064)
     - 초록 : 임의의 차원에서 곡선의 유사성에 대한 측정을 하기 위해, 곡선의 매개변수화가 가능한 프레셰 거리를 고려한다.
+---
     - Contents
       - 논문소개                                                
       - 배경지식
