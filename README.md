@@ -3,7 +3,8 @@
 - 기간 : 2021.09 ~ 2022.02
 - 업무 :
   - 확률 및 통계 문제은행 구축 보조
-  - 문헌조사 및 논문정리 : 두 곡선 사이의 거리를 측정하여 두 곡선 사이의 유사도 표현 
+  - 문헌조사 및 논문정리 
+    - 목표 : 두 곡선 사이의 거리를 측정하여 두 곡선 사이의 유사도 표현
     - Keyword : Frechet Distance, Interpoint Distance, Trajectory Similarity Measures
     - 메인 논문 : [computing the frechet distance between polygonal curves](https://www.worldscientific.com/doi/abs/10.1142/S0218195995000064)
     - 초록 : 임의의 차원에서 곡선의 유사성에 대한 측정을 하기 위해, 곡선의 매개변수화가 가능한 프레셰 거리를 고려한다.
